@@ -1,0 +1,17 @@
+{
+    "name": "WidgetFormaldehydeDetect",
+    "version": "1.0.0",
+    "keywords": "Widget,Formaldehyde,Detect",
+    "description": "甲醛检测应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetFormaldehydeDetect.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
